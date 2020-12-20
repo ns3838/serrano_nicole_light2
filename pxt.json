@@ -1,5 +1,5 @@
 {
-    "name": "serrano_nicole_light1",
+    "name": "serrano_nicole_light2",
     "description": "",
     "dependencies": {
         "adafruit-circuit-playground-express": "*"
@@ -13,7 +13,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "0.14.7",
+        "target": "0.14.9",
         "targetId": "maker"
     },
     "supportedTargets": [
